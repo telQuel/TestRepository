@@ -24,6 +24,7 @@ class TestEmployee {
         }
     }
 
+
     public static void main(String[] args) {
         ArrayList<Employee> employeeArrayList = new ArrayList<>();
         Employee e1 = new Employee("Ivan", "Ivan", 460);
