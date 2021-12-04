@@ -53,6 +53,7 @@ class StudentInfo {
         list.removeIf(x -> x.name.endsWith("a"));
         for (Student s: list) {System.out.println(s.name);}
     }
+    int i = 1;
 }
 
 
